@@ -28,5 +28,5 @@ app_config = {
     'development': DevelopmentConfig,
     'testing': TestingConfig,
     'release': ReleaseConfig,
-    'db_url': "dbname='store_manager' host='localhost' port='5432' user='postgres'password='postgres'"
+    'db_url': "postgres://dgiapvopgroeuf:93151de33e943a50c349133bb68e4bfd03a845fba756c0df9b3cba8ff9eae7f2@ec2-174-129-227-205.compute-1.amazonaws.com:5432/da8hv9kjap657g"
 }
